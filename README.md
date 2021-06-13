@@ -10,4 +10,7 @@ We have selected only the purchase event_type and try to find association rules 
 Applied minSup = 0.01 and minCon = 0.01
 
 Result Interpretation 😊
-In most of the rules predicted item is runail brand or irisk brand. It conclude that customers always trend to buy products with these brands.
+Final output consists of several association rules and one special feature was highlighted. In most of the rules brand Domix and brand Pole were included. 
+The predicted brands in most of the rules consisted of brand Domix and brand Pole. 
+So it can be concluded that customers have more of a trend on buying products from both Domix and Pole brands together.
+
